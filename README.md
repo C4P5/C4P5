@@ -2,7 +2,7 @@
 - 👀 I’m interested in THIS
 - 🌱 I’m currently learning THIS
 - 💞️ I’m looking to collaborate on THAT
-- 📫 Reach me THERE
+- 📫 Reach me [HERE](mailto:info.mfcaps@gmail.com)
 
 <!---
 C4P5/C4P5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
