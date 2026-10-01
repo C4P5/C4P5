@@ -1,4 +1,4 @@
-- 👋 Hi, I’m CAPS. You can find me all over these hellholes either by @ALLCAPS or @MF_CAPS. Will likely type all-capsed.
+- 👋 Hi, I’m CAPS. You may find me all over these hellholes either by @ALLCAPS or @MF_CAPS. Will likely type all-capsed.
 - 👀 I’m interested in THIS
 - 🌱 I’m currently learning THIS
 - 💞️ I’m looking to collaborate on THAT
